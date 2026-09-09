@@ -236,3 +236,6 @@ This repository serves as the official landing page for PDF Split and Merge. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PDF Split and Merge today!**
+
+---
+**Last updated:** 2026-09-09 18:14:11 UTC
